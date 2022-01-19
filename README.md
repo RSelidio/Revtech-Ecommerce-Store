@@ -76,6 +76,8 @@ To-do list:
 
 ## Getting Started
 Please refer to `STARTUP.md` file
+* Clone FrontEnd: https://github.com/RSelidio/Revtech-Ecommerce-Store-frontend
+* Clone BackEnd: https://github.com/RSelidio/Revtech-Ecommerce-Store-backend
 
 # Application Screenshots
 ![Store](https://i.postimg.cc/3R4p6GPB/Screen-Shot-2022-01-14-at-12-25-43-PM.png)
